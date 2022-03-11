@@ -34,7 +34,7 @@
                             <div class="hovereffect">
                                 <span></span>
                             </div>
-                            <!-- end hover -->
+                            <!-- end hover -->{{----}}
                         </a>
                     </div>
                     <!-- end media -->
