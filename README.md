@@ -6,7 +6,7 @@
 
 ## Для запуска проекта вам нужно выполнить следующие шаги:
 
-1) Загрузите Composer и Visual Studio Code (или другое IDE) и XAMPP / open server
+1) Загрузите Composer и Visual Studio Code (или другое IDE) и XAMPP
 2) Загрузите Zip-файл с Github и распакуйте его.
 3) Откройте проект в вашем IDE и откройте интегрированный терминал (командная строка) / также можно открыть терминал в папке проекта и обновить композер там, если он установлен у вас на ПК
 4) Запустите "обновление композитора" (composer update)
@@ -30,7 +30,7 @@ Project start instructions
 
 ## To run the project, you need to follow these steps:
 
-1) Download Composer and Visual Studio Code (or other IDE) and XAMPP/open server
+1) Download Composer and Visual Studio Code (or other IDE) and XAMPP
 2) Download the Zip file from Github and extract it.
 3) Open the project in your IDE and open the integrated terminal (command line) / you can also open the terminal in the project folder and update the composer there if you have it installed on your PC
 4) Run "composer update" (composer update)
