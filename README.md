@@ -15,8 +15,10 @@
 7) Установите имя для базы данных - ("blog")
 8) Запустите XAMPP, откройте ссылку «http://localhost/phpmyadmin/» и создайте базу данных, назовите базу "blog" и импортируйте файл из папки MYSQL!!, после выполненного шага данную папку можно удалить.
 9) В файле .env поменяйте следующие строки:
+
 APP_URL=http://laravel -> APP_URL=http://blog
 DB_DATABASE=laravel -> DB_DATABASE=blog
+
 
 
 
