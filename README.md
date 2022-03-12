@@ -13,7 +13,7 @@
 5) Переименуйте .env.example в .env
 6) Запустите "php artisan key: generate"
 7) Установите имя для базы данных - ("blog")
-8) Запустите XAMPP, откройте ссылку «http://localhost/phpmyadmin/» и создайте базу данных, назовите базу "blog" и импортируйте файл из папки MYSQL!!, после выполненного шага данную папку можно удалить.
+8) Запустите XAMPP, откройте ссылку «http://localhost/phpmyadmin/» и создайте базу данных, назовите базу "blog" и импортируйте файл из папки dump, после выполненного шага данную папку можно удалить.
 9) В файле .env поменяйте следующие строки:
  
 APP_URL=http://laravel -> APP_URL=http://blog 
@@ -37,7 +37,7 @@ Project start instructions
 5) Rename .env.example to .env
 6) Run "php artisan key: generate"
 7) Set a name for the database - ("blog")
-8) Run XAMPP, open the link "http://localhost/phpmyadmin/" and create a database, name the database "blog" and import the file from the MYSQL!! folder, after the step this folder can be deleted.
+8) Run XAMPP, open the link "http://localhost/phpmyadmin/" and create a database, name the database "blog" and import the file from the dump folder, after the step this folder can be deleted.
 9) Change the following lines in the .env file:
  
 APP_URL=http://laravel -> APP_URL=http://blog 
