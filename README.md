@@ -31,13 +31,13 @@ Project start instructions
 ## To run the project, you need to follow these steps:
 
 1) Download Composer and Visual Studio Code (or other IDE) and XAMPP
-2) Download the Zip file from Github and extract it.
-3) Open the project in your IDE and open the integrated terminal (command line) / you can also open the terminal in the project folder and update the composer there if you have it installed on your PC
+2) Download the Zip file from Github and unpack it.
+3) Open the project in your IDE and open the integrated terminal (command line) / you can also open the terminal in the project folder. If it've been installed on your PC then update the composer there.
 4) Run "composer update" (composer update)
 5) Rename .env.example to .env
 6) Run "php artisan key: generate"
-7) Set a name for the database - ("blog")
-8) Run XAMPP, open the link "http://localhost/phpmyadmin/" and create a database, name the database "blog" and import the file from the dump folder, after the step this folder can be deleted.
+7) Set the name ("blog") for the database
+8) Run XAMPP, open the link "http://localhost/phpmyadmin/" and create a database, name the database "blog" and import the file from the dump folder, after the step this folder can be deleted after the last step.
 9) Change the following lines in the .env file:
  
 APP_URL=http://laravel -> APP_URL=http://blog 
